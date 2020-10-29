@@ -1,1 +1,8 @@
-# your code here
+a=input()
+max="0"
+for element in a:
+    if element>=max:
+        max=element
+
+print (max)
+        
